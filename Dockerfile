@@ -1,7 +1,7 @@
 # Use the official slim Python 3.10 image
 FROM python:3.10-slim
 
-LABEL org.opencontainers.image.source="https://github.com/andysharma1997/shubham_sharma_travel_assistant"
+LABEL org.opencontainers.image.source="https://github.com/andysharma1997/shubham_sharma_help_mate_ai"
 
 COPY . /opt
 
